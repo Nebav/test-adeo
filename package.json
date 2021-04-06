@@ -8,15 +8,12 @@
     "coverage": "nyc --reporter=text mocha *.spec.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yahia Brahimi",
   "license": "ISC",
   "devDependencies": {
-    "decache": "^4.6.0",
     "mocha": "^8.3.2",
     "nyc": "^15.1.0",
-    "request": "^2.88.2"
-  },
-  "dependencies": {
     "sinon": "^10.0.0"
-  }
+  },
+  "dependencies": {}
 }
